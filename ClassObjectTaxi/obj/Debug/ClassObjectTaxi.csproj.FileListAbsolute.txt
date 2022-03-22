@@ -1,0 +1,7 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\ClassObjectTaxi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\ClassObjectTaxi\bin\Debug\ClassObjectTaxi.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\ClassObjectTaxi\bin\Debug\ClassObjectTaxi.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\ClassObjectTaxi\obj\Debug\ClassObjectTaxi.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\ClassObjectTaxi\obj\Debug\ClassObjectTaxi.pdb
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 3\OOP\Class dan object\ClassObjectTaxi\ClassObjectTaxi\obj\Debug\ClassObjectTaxi.exe
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 3\OOP\Class dan object\ClassObjectTaxi\ClassObjectTaxi\obj\Debug\ClassObjectTaxi.pdb
